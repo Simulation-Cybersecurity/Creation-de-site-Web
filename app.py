@@ -19,3 +19,4 @@ def backup_logs(filename):
 # Simulation d'utilisation
 user_input = "admin' OR '1'='1" # Exemple d'attaque SQL
 login_user(user_input, "password123")
+
